@@ -1,3 +1,5 @@
+# [Link to page](https://hexelena.github.io/doc-test/)
+
 # starter
 
 1. [Generate with the same files and folders](https://github.com/rundocs/starter/generate) from this repository
