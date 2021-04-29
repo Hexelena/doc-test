@@ -9,12 +9,5 @@ The theme is available as open source under the terms of the MIT License
 
 Test link to another section:
 
-[Test1](/section-1/examples.md)  
-[Test1](/doc-test/section-1/examples.html)  
+[Example Link to examples page]({{ site.baseurl }}{% link section-1/examples.md %})
 
-
-[Test2]({{site.baseurl}}/section-1/examples.md)  
-[Test2]({{site.baseurl}}/section-1/examples.html)  
-
-[Test3]({{ site.baseurl }}{% link section-1/examples.md %})
-[Test3]({{ site.baseurl }}{% link section-1/examples.html %})
